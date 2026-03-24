@@ -1,0 +1,7 @@
+
+**Enunciado**. Sea $V$ espacio vectorial sobre $F$ de dimensión finita. Si $H$ es una forma bilineal simétrica (es decir, $H(v,w) = H(w,v)$) con característica distinta de 2, entonces existe una base $\beta = \{v_1, ..., v_n\}$ de $V$ tal que $[H]_{\beta}$  es diagonal (recordatorio, $[H]_{{\beta}_{ij}} = H(v_i,v_j)$ ).
+
+**Demostración**. Por inducción sobre la dimensión de $V$. 
+
+* Si $dim(V) = 1$. Sea $\beta = \{v_1\}$ base de $V$, entonces $(H(v_1,v_1))$ es diagonal.
+* Supongamos se cumple para espacios con dimensión igual a $n-1$.  Sea $\beta = \{v_1, ..., v_n\}$ dimensión de $V$, entonces  $W = \ <\{v_1, ..., v_{n-1}\}>$  tiene dimensión $n-1$. Por HI $\exists \Gamma = \{\alpha_1, ..., \alpha_{n-1}\}$  base de $W$, tal que $[H]_{\Gamma}$ es diagonal. Definamos $T: V \to W$ como $$T(x) = \sum_{i=1}^{n-1} H(x,\alpha_i) \alpha_i$$Notemos que $$T(ax+y) = \sum_{i=1}^{n-1} H(ax+y,\alpha_i) \alpha_i=a\sum_{i=1}^{n-1} H(x,\alpha_i) \alpha_i+\sum_{i=1}^{n-1} H(y,\alpha_i) \alpha_i=aT(x)+T(y)$$Por lo que $T$ es lineal. Si $T$ fuera inyectiva, entonces $V \cong W \Rightarrow dim(V)=dim(W)$, lo que es absurdo. Así   $T$ no es inyectiva, por lo que $\exists \sigma \in V \setminus \{0\} \mid T(\sigma)=0$. Supongamos que $\sigma = \sum_{i=1}^{n-1} a_i \alpha_i$ para algunos $a_i \in F$, entonces $$0=T(\sigma)=T(\sum_{i=1}^{n-1} a_i \alpha_i) = \sum_{i=1}^{n-1} a_i T(\alpha_i)=\sum_{i=1}^{n-1} a_i T(\sum_{j=1}^{n-1} H(\alpha_i,\alpha_j) \alpha_j)=\sum_{i=1}^{n-1} a_i H(\alpha_i, \alpha_i)\alpha_i$$ 
