@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "Mi avance"
             }
+          },
+          {
+            "id": "8288da432fc545a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Congruencias lineales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Congruencias lineales"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -310,8 +324,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e307638a4d682a19",
+  "active": "8288da432fc545a1",
   "lastOpenFiles": [
+    "Teoría de números.md",
+    "Congruencias lineales.md",
+    "El cociente de la congruencia (Zm).md",
+    "Congruencias.md",
+    "Máximo común divisor.md",
+    "Ecuaciones diofantinas lineales.md",
+    "Propiedades de Z.md",
+    "Avance de libros.md",
+    "Divisibilidad.md",
+    "Mínimo común múltiplo.md",
+    "La criba de Eratóstenes.md",
+    "Números primos.md",
+    "Avance de libros / Introducción a la teoría de números.md",
+    "Avance de libros ",
     "Sucesión acotada.md",
     "Untitled.md",
     "Series geométricas.md",
@@ -325,19 +353,6 @@
     "Problema dificil.md",
     "Parentesización de una suma finita.md",
     "P-series.md",
-    "Medida y longitud de un rectángulo.md",
-    "Metas.md",
-    "Medida de Lebesgue cero.md",
-    "Limite cero.md",
-    "Integral en Rⁿ.md",
-    "Igualdad bajo convergencia absoluta.md",
-    "Ejercicio 24.md",
-    "Ejercicio 7.a.md",
-    "Definición de serie.md",
-    "Criterios de series.md",
-    "Convergencia absoluta y condicional.md",
-    "Asociar términos finitos no afecta valor.md",
-    "Libros.md",
     "Pasted image 20251217134007.png",
     "Pasted image 20251217133843.png"
   ]

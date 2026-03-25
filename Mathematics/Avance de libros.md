@@ -38,8 +38,21 @@
 	- [ ] Combining Models
 
 
-
-
+Set theory Jech
+Topologia Tamariz
+Trilogia de Lee
+Dummit and Foote
+Group theory Zaldivar 
+Measure theory Halmos
+Fourier Analysis Stein 
+Shabat 2 volumenes
+Bartle Analisis 
+Abbot Analisis
+Trilogia Paez
+Trilogia Rincon
+Sipser computation
+Inferencia Estadística para Estudiantes de Ciencias* by Alamilla
+Kozen Automata 
 
 
 
