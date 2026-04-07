@@ -7,8 +7,17 @@
 	- [ ] Raíces primitivas y logaritmos discretos
 	- [ ] Residuos cuadráticos
 	- [ ] Sumas de potencias
-	- [ ] La ecuación de Pell y aproximaciones diofantinas
+	- [ ] La ecuación de Pell y aproximaciones Diofantinas
 	- [ ] Números congruentes y curvas elípticas
+
+- [ ] **Cálculo integral de varias variables** - Javier Páez Cárdenas
+
+	- [ ] Integral de Riemann
+	- [ ] Calculando integrales
+	- [ ] Integrando sobre curvas
+	- [ ] Integrando sobre superficies
+	- [ ] Formas: el concepto que unifica
+	- [ ] El teorema de Lebesgue
 
 - [ ] **Linear Algebra** - S. Friedberg & A. Insel
 
